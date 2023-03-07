@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My first Blog",
+            "body": "Why we use it?\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime soluta corrupti, reprehenderit nesciunt nobis at quisquam, sed odio deleniti, dignissimos laboriosam voluptatum cum inventore dolore provident minus. Libero, animi? Qui perferendis sunt quia praesentium omnis. Cupiditate labore, quae dolore doloremque iure quisquam nostrum dolorem unde.",
+            "author": "chao lobi",
+            "id": 1
+        },
+        {
+            "title": "Openig Party!",
+            "body": "Why we use it?\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime soluta corrupti, reprehenderit nesciunt nobis at quisquam, sed odio deleniti, dignissimos laboriosam voluptatum cum inventore dolore provident minus. Libero, animi? Qui perferendis sunt quia praesentium omnis. Cupiditate labore, quae dolore doloremque iure quisquam nostrum dolorem unde.",
+            "author": "Laditya Gogoi",
+            "id": 2
+        }
+    ]
+}
