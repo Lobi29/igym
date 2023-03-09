@@ -2,6 +2,9 @@ import Navbar from './Navbar';
 import Home from './Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Create from './Create';
+import BlogDetails from './BlogDetails';
+import NotFound from './NotFound'
+
 
 function App() {
   return (
@@ -13,6 +16,8 @@ function App() {
             <Routes>
               <Route exact path='/' element={<Home />} />
               <Route path='/create' element={<Create />} />
+              <Route path='/blogs/:id' element={<BlogDetails />} />
+              <Route path='*' element={<NotFound />} />
             </Routes>
           </div>
         </div>
@@ -22,6 +27,7 @@ function App() {
 }
 
 export default App;
+
 
 
 // command for running server of data 
